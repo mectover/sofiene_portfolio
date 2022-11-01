@@ -175,7 +175,7 @@ $(function() {
     }
   });
 
-  bar.animate(.9);
+  bar.animate(.6);
 
   var bar = new ProgressBar.Line(lineprog2, {
     strokeWidth: 1.72,
@@ -192,7 +192,7 @@ $(function() {
     }
   });
 
-  bar.animate(.95);
+  bar.animate(.7);
 
   var bar = new ProgressBar.Line(lineprog3, {
     strokeWidth: 1.72,
@@ -226,7 +226,7 @@ $(function() {
     }
   });
 
-  bar.animate(.65);
+  bar.animate(.97);
 
   var bar = new ProgressBar.Line(lineprog5, {
     strokeWidth: 1.72,
