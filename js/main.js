@@ -222,7 +222,7 @@ $(function() {
       height: '100%'
     },
     step: (state, bar) => {
-      bar.setText(Math.round(bar.value() * 100) + ' %');
+      bar.setText(Math.round(0.97 * 100) + ' %');
     }
   });
 
